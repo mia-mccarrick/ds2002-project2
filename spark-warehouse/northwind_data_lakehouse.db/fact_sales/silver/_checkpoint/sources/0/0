@@ -1,0 +1,4 @@
+v1
+{"path":"file:///Users/miamccarrick/DS2002/Project%202/spark-warehouse/northwind_data_lakehouse.db/fact_sales/bronze/part-00000-6f2cfffd-2ef4-4607-abd6-704d59392894-c000.snappy.parquet","timestamp":1745594591233,"batchId":0}
+{"path":"file:///Users/miamccarrick/DS2002/Project%202/spark-warehouse/northwind_data_lakehouse.db/fact_sales/bronze/part-00000-f38ad1d0-26c7-404b-a6e4-928fac682a47-c000.snappy.parquet","timestamp":1745594591616,"batchId":0}
+{"path":"file:///Users/miamccarrick/DS2002/Project%202/spark-warehouse/northwind_data_lakehouse.db/fact_sales/bronze/part-00000-a68608ab-4858-4edf-8512-266b2fc248a2-c000.snappy.parquet","timestamp":1745594591908,"batchId":0}

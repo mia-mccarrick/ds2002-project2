@@ -1,0 +1,2 @@
+v1
+{"path":"file:///Users/miamccarrick/DS2002/Project%202/spark-warehouse/northwind_data_lakehouse.db/fact_sales/bronze/part-00000-f38ad1d0-26c7-404b-a6e4-928fac682a47-c000.snappy.parquet","size":9666,"isDir":false,"modificationTime":1745594591616,"blockReplication":1,"blockSize":33554432,"action":"add"}

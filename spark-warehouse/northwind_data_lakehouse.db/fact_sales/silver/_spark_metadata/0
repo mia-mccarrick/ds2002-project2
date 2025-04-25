@@ -1,0 +1,4 @@
+v1
+{"path":"file:///Users/miamccarrick/DS2002/Project%202/spark-warehouse/northwind_data_lakehouse.db/fact_sales/silver/part-00000-4beff111-510d-4b66-8623-0b1c159d9770-c000.snappy.parquet","size":455195,"isDir":false,"modificationTime":1745594596384,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/miamccarrick/DS2002/Project%202/spark-warehouse/northwind_data_lakehouse.db/fact_sales/silver/part-00001-936e9dbc-9590-4928-bf27-809e5a4bccd4-c000.snappy.parquet","size":935493,"isDir":false,"modificationTime":1745594596876,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/miamccarrick/DS2002/Project%202/spark-warehouse/northwind_data_lakehouse.db/fact_sales/silver/part-00002-25f1d06c-78db-4182-bded-403b6ce7e3bf-c000.snappy.parquet","size":892996,"isDir":false,"modificationTime":1745594596827,"blockReplication":1,"blockSize":33554432,"action":"add"}
